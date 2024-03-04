@@ -1,0 +1,4 @@
+1,Shotgun,actiune,palpitant,3
+2,Paris,actiune,interesant,1
+3,Magicienii,actiune,copii,1
+4,You,drama,obsesie,3
